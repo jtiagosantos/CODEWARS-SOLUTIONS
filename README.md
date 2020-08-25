@@ -1,2 +1,2 @@
-# CODEWARS-SOLUTIONS
+# CODEWARS - SOLUTIONS
  All my solutions to Codewars problems.
