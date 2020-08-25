@@ -29,3 +29,30 @@ Honor represents the level of respect a user has earned from the community, base
 **Privileges**
 
 Your privileges are what control the actions you can take on the Codewars site. The longer you use the site, the more privileges you are given. For example, being able to create kata or higher voting power. You gain privileges as a result of how many honor you have. Privileges are not based on rank, however, users with a higher rank are more likely to have more honor points.
+
+
+
+## Kata Ranking
+
+
+## White (Beginner)
+
+
+**8 Kyu**
+
+8 kyu kata represent a beginner level. At this level the kata is only challenging for users new to programming. This includes programming tasks such as:
+
+* Defining a simple function (i.e. hello world)
+* Basic variable assignments
+* Fixing basic syntax issues
+* Trivial algorithms such as basic if/else statements
+
+
+**7 Kyu**
+
+7 kyu kata represent a beginner programming level. At this level the kata will generally challenge users on their core language and API reference knowledge. Tasks such as:
+
+* Iterating arrays and returning a subset of values
+* Basic data type manipulations
+* Basic functional or object-oriented concepts
+* Basic Regular Expressions
