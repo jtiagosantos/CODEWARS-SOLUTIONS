@@ -4,6 +4,3 @@
 
 
 # About The Project
-
-
-![logo codewars](logo.png)
