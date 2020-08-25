@@ -126,8 +126,8 @@ Your privileges are what control the actions you can take on the Codewars site. 
 * Complex Mini-programs with multiple feature requirements (such as a complete markdown parser)
 
 
-# My Profile
-
+# My Profile 
+![my profile](https://www.codewars.com/users/tiago_santos/badges/large)
 
 * **Name:** [Tiago Santos](https://www.codewars.com/users/tiago_santos)
 * **Clan:** Universidade Federal do Amazonas (UFAM)
