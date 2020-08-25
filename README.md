@@ -124,3 +124,47 @@ Your privileges are what control the actions you can take on the Codewars site. 
 * Advanced AI/machine learning algorithms
 * Complex interpreters and compilers
 * Complex Mini-programs with multiple feature requirements (such as a complete markdown parser)
+
+
+# My Profile
+
+
+* **Name:** [Tiago Santos](https://www.codewars.com/users/tiago_santos)
+* **Clan:** Universidade Federal do Amazonas (UFAM)
+* **Member since:** June 2020
+* **Last seen:** August 2020
+* **Follows:** 0
+* **Followers:** 0
+* **Allies:** 0
+
+
+## My Progress
+
+
+* **Rating:** 6 kyu
+* **Honor:** 121
+* **Total Complete Kata:** 25
+
+
+**Languages:**
+
+* **Total languages trained:** 1
+* **Most trained:** Python (6 kyu)
+* **Most recent:** Python
+
+
+**Classificação da classificação:**
+
+* **Overall:** 6 kyu / 2.6%
+* **Python:** 6 kyu / 2.6%
+
+
+
+# License
+* [**MIT LICENSE**](https://opensource.org/licenses/MIT)
+
+
+
+# Acknowledgements
+* [CODEWARS](https://www.codewars.com/)
+---
