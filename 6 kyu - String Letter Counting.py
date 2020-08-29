@@ -15,9 +15,8 @@ Examples
 "555"                       ==>  ""
 '''
 
-alfabeth = list('abcdefghijklmnopqrstuvwxyz')
 def string_letter_count(string):
-    string = list(string.lower()); string = [i for i in string if i in alfabeth]; string2 = string.copy(); string2 = sorted(list(set(string2))); count = []; array = []
+    string = list(string.lower()); string = [i for i in string if i.isalpha()]; string2 = string.copy(); string2 = sorted(list(set(string2))); count = []; array = []
     for i in string2:
         count.append(string.count(i))
     for a,b in zip(string2, count):
