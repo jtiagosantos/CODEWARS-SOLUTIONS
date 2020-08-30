@@ -141,22 +141,24 @@ Your privileges are what control the actions you can take on the Codewars site. 
 ## My Progress
 
 
-* **Rating:** 6 kyu
-* **Honor:** 121
-* **Total Complete Kata:** 25
+* **Rating:** 5 kyu
+* **Honor:** 292
+* **Leaderboard Position:** #96,398
+* **Honor Percentile:** Top 40.723%
+* **Total Complete Kata:** 62
 
 
 **Languages:**
 
 * **Total languages trained:** 1
-* **Most trained:** Python (6 kyu)
+* **Most trained:** Python (5 kyu)
 * **Most recent:** Python
 
 
 **Classificação da classificação:**
 
-* **Overall:** 6 kyu / 2.6%
-* **Python:** 6 kyu / 2.6%
+* **Overall:** 5 kyu / 0.0%
+* **Python:** 5 kyu / 0.0%
 
 
 
