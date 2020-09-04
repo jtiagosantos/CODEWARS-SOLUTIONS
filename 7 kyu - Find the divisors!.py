@@ -9,9 +9,16 @@ divisors(25); #should return [5]
 divisors(13); #should return "13 is prime"
 '''
 
-def divisors(integer):
-    array = [i for i in range(2, integer) if integer % i == 0]
+def is_prime(num, validator=''):
+    array = [i for i in range(1, num + 1) if num % i == 0]
     if len(array) == 2:
+        validator = 'is prime'
+    return validator
+
+def divisors(integer):
+    validator = is_prime(integer)
+    if validator == 'is prime':
         return '{} is prime'.format(integer)
-    return array
+    divisors = [i for i in range(2, integer) if integer % i == 0]
+    return divisors
     
