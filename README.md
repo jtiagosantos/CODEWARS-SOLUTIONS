@@ -130,7 +130,7 @@ Your privileges are what control the actions you can take on the Codewars site. 
 ![my profile](https://www.codewars.com/users/tiago_santos/badges/large)
 
 * **Name:** [Tiago Santos](https://www.codewars.com/users/tiago_santos)
-* **Clan:** Universidade Federal do Amazonas (UFAM)
+* **Clan:** Federal University of Amazonas (UFAM)
 * **Member since:** June 2020
 * **Last seen:** August 2020
 * **Follows:** 0
