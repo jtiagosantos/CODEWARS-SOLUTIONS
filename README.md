@@ -130,7 +130,7 @@ Your privileges are what control the actions you can take on the Codewars site. 
 ![my profile](https://www.codewars.com/users/tiago_santos/badges/large)
 
 * **Name:** [Tiago Santos](https://www.codewars.com/users/tiago_santos)
-* **Clan:** Universidade Federal do Amazonas (UFAM)
+* **Clan:** Federal University of Amazonas (UFAM)
 * **Member since:** June 2020
 * **Last seen:** August 2020
 * **Follows:** 0
@@ -142,10 +142,10 @@ Your privileges are what control the actions you can take on the Codewars site. 
 
 
 * **Rating:** 5 kyu
-* **Honor:** 292
-* **Leaderboard Position:** #96,398
-* **Honor Percentile:** Top 40.723%
-* **Total Complete Kata:** 62
+* **Honor:** 354
+* **Leaderboard Position:** #70,188
+* **Honor Percentile:** Top 29.439%
+* **Total Complete Kata:** 77
 
 
 **Languages:**
@@ -157,8 +157,8 @@ Your privileges are what control the actions you can take on the Codewars site. 
 
 **Classificação da classificação:**
 
-* **Overall:** 5 kyu / 0.0%
-* **Python:** 5 kyu / 0.0%
+* **Overall:** 5 kyu / 16.7%
+* **Python:** 5 kyu / 16.7%
 
 
 
