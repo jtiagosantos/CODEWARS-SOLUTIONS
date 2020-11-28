@@ -142,24 +142,24 @@ Your privileges are what control the actions you can take on the Codewars site. 
 
 
 * **Rating:** 5 kyu
-* **Honor:** 394
-* **Leaderboard Position:** #60,966
-* **Honor Percentile:** Top 24.720%
-* **Total Complete Kata:** 88
+* **Honor:** 402
+* **Leaderboard Position:** #59,461
+* **Honor Percentile:** Top 23.965%
+* **Total Complete Kata:** 93
 
 
 **Languages:**
 
 * **Total languages trained:** 2
 * **Highest Trained:** Python (5 kyu)
-* **Most Recent:** Haskell
+* **Most Recent:** Ruby
 
 
 **Classificação da classificação:**
 
-* **Overall:** 5 kyu / 28.3%
+* **Overall:** 5 kyu / 33.3%
 * **Haskell:** 7 kyu / 21.4%
-* **Python:** 5 kyu / 16.7%
+* **Python:** 5 kyu / 25.6%
 
 
 
